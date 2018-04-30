@@ -7,7 +7,7 @@ namespace Fishing
     public partial class App : Application
     {
         public static bool UseMockDataStore = false;
-        public static string BackendUrl = "https://localhost:5000";
+        public static string BackendUrl = "https://happyskipper.azurewebsites.net";
 
         public App()
         {
